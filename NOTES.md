@@ -1,8 +1,8 @@
 # CCNA Lab Notes – VLSM & Static Routing
 
 ## Lab Overview
-- **Goal:** Implement a network using VLSM to optimize IP address usage and configure static routing between routers.
-- **Topology:** 2 Routers (R1, R2) + multiple subnets for hosts and links.
+Στόχος: Υλοποίηση δικτύου που χρησιμοποιεί VLSM για τη βελτιστοποίηση της χρήσης διευθύνσεων IP και τη διαμόρφωση στατικής δρομολόγησης μεταξύ routers.
+Τοπολογία: 2 routers (R1, R2) + πολλαπλά υποδίκτυα για κεντρικούς υπολογιστές και συνδέσμους.
 
 ---
 
