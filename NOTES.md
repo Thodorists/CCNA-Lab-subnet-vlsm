@@ -2,7 +2,7 @@
 
 ## Lab Overview
 - **Goal:** Implement a network using VLSM to optimize IP address usage and configure static routing between routers.
-- **Topology:** 3 Routers (R1, R2, R3) + multiple subnets for hosts and links.
+- **Topology:** 2 Routers (R1, R2) + multiple subnets for hosts and links.
 
 ---
 
